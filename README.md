@@ -22,14 +22,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/harromps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harromps" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hariom shivhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariom shivhare" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hariom pravin shivhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hariom pravin shivhare" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hariom-shivhare-a32803290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariom shivhare" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23190317/hariom-pravin-shivhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hariom pravin shivhare" height="30" width="40" /></a>
 <a href="https://codesandbox.com/harromps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="harromps" height="30" width="40" /></a>
-<a href="https://kaggle.com/hariom pravin shivhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hariom pravin shivhare" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/hariompravinshivhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hariom pravin shivhare" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harry_ps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harry_ps" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hariom_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hariom_999" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harry shivhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harry shivhare" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/2021bihhl2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/2021bihhl2/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/d6m1zTHqHj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harry shivhare" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/2021bihhl2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/2021bihhl2/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,3 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harromps&show_icons=true&locale=en" alt="harromps" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harromps&" alt="harromps" /></p>
+
