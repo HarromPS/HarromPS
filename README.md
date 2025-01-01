@@ -32,6 +32,10 @@
 <a href="https://codeforces.com/profile/hariom_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hariom_999" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/d6m1zTHqHj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harry shivhare" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/2021bihhl2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/2021bihhl2/" height="30" width="40" /></a>
+<a href="https://codolio.com/profile/Hariom_kcdkdnvvdfdf" target="_blank">
+  <img align="center" src="https://codelio.com/favicon.ico" alt="Codelio Profile" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
