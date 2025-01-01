@@ -33,7 +33,7 @@
 <a href="https://leetcode.com/u/d6m1zTHqHj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harry shivhare" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/2021bihhl2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/2021bihhl2/" height="30" width="40" /></a>
 <a href="https://codolio.com/profile/Hariom_kcdkdnvvdfdf" target="_blank">
-  <img align="center" src="https://codelio.com/favicon.ico" alt="Codelio Profile" height="30" width="40" />
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXW4gLSIxZ5Os5qCkJI9URwc1s9L0sYEu3-A&s" alt="Codelio Profile" height="30" width="40" />
 </a>
 
 </p>
